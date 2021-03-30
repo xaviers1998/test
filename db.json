@@ -1,39 +1,5 @@
 {
-    "tokens": [
-        {
-            "id": 0,
-            "image": "https://i.imgur.com/cStWzuN.png",
-            "name": "CryptDoge 0"
-        },
-        {
-            "id": 1,
-            "image": "https://i.imgur.com/MFTuEWN.png",
-            "name": "CryptDoge 1"
-        },
-        {
-            "id": 2,
-            "image": "https://i.imgur.com/XOJqFH9.png",
-            "name": "CryptDoge 2"
-        },
-        {
-            "id": 3,
-            "image": "https://i.imgur.com/DoKZfNc.png",
-            "name": "CryptDoge 3"
-        },
-        {
-            "id": 4,
-            "image": "https://i.imgur.com/aMtQvDi.png",
-            "name": "CryptDoge 4"
-        },
-        {
-            "id": 5,
-            "image": "https://i.imgur.com/Dpt1TO2.png",
-            "name": "CryptDoge 5"
-        },
-        {
-            "id": 6,
-            "image": "https://i.imgur.com/rtPtYuS.png",
-            "name": "CryptDoge 6"
-        }
-    ]
+  "id": 1,
+  "image": "https://i.imgur.com/Lo8hww8.jpg",
+  "name": "Ace"
 }
